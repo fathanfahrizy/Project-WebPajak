@@ -1,0 +1,50 @@
+{
+  "angkatan2022": {
+    "asisten": [
+      { "name": "Alifah Syifa Shabrina", "role": "Asisten Praktikum", "img": "/img-team/2022/Alifah.png", "in": "#", "ig": "#" },
+      { "name": "Najwa Khansa Khalila", "role": "Asisten Praktikum", "img": "/img-team/2022/Najwa.png", "in": "#", "ig": "#" },
+      { "name": "Bintari Chifa Arfianti", "role": "Asisten Praktikum", "img": "/img-team/2022/Tari.png", "in": "#", "ig": "#" },
+      { "name": "Kayla Naurah", "role": "Asisten Praktikum", "img": "/img-team/2022/Kayla.png", "in": "#", "ig": "#" },
+      { "name": "Alven Handijaya", "role": "Asisten Praktikum", "img": "/img-team/2022/Alven.png", "in": "#", "ig": "#" },
+      { "name": "Fauzan Wahyu", "role": "Asisten Praktikum", "img": "/img-team/2022/Fauzan.png", "in": "#", "ig": "#" },
+      { "name": "Amanda Tirtania", "role": "Asisten Praktikum", "img": "/img-team/2022/Amanda_Tirtania.png", "in": "#", "ig": "#" },
+      { "name": "Melisa Eka Putri", "role": "Asisten Praktikum", "img": "/img-team/2022/Melissa.png", "in": "#", "ig": "#" },
+      { "name": "Nabilah Putri", "role": "Asisten Praktikum", "img": "/img-team/2022/Nabilla.png", "in": "#", "ig": "#" },
+      { "name": "Adelia Dwihafitri", "role": "Asisten Praktikum", "img": "/img-team/2022/Adel.png", "in": "#", "ig": "#" },
+      { "name": "Rayshasikirana Lovetha Faidzia", "role": "Asisten Praktikum", "img": "/img-team/2022/Raysa.png", "in": "#", "ig": "#" },
+      { "name": "Sephia", "role": "Asisten Praktikum", "img": "/img-team/2022/Sephia.png", "in": "#", "ig": "#" },
+      { "name": "Siti Amanda", "role": "Asisten Praktikum", "img": "/img-team/2022/Siti_Amanda.png", "in": "#", "ig": "#" },
+      { "name": "Sovia Setiawati", "role": "Asisten Praktikum", "img": "/img-team/2022/Sovia.png", "in": "#", "ig": "#" },
+      { "name": "Aura Aisyah", "role": "Asisten Praktikum", "img": "/img-team/2022/Aura.png", "in": "#", "ig": "#" },
+      { "name": "Tiara Pravita Sari", "role": "Asisten Praktikum", "img": "/img-team/2022/Tiara.png", "in": "#", "ig": "#" }
+    ],
+    "itSupport": [
+      { "name": "Mohammad Gheron Shaquille", "role": "Kepala IT Support", "img": "/img-team/2022/Gheron.png", "in": "#", "ig": "#" },
+      { "name": "Clara Marsya Dekawanti", "role": "Staff IT Support", "img": "/img-team/2022/Clara.png", "in": "#", "ig": "#" },
+      { "name": "Ilyas Imam Ibrahim", "role": "Staff IT Support", "img": "/img-team/2022/Ilyas.png", "in": "#", "ig": "#" }
+    ]
+  },
+  "angkatan2023": {
+    "asisten": [
+      { "name": "Amanda Mutiara Al Fatwa", "role": "Asisten Praktikum", "img": "/img-team/2023/Amanda.png", "in": "#", "ig": "#" },
+      { "name": "Cleo Aprilia Randu Wangi", "role": "Asisten Praktikum", "img": "/img-team/2023/Cleo.png", "in": "#", "ig": "#" },
+      { "name": "Dhiyaa Zahila", "role": "Asisten Praktikum", "img": "/img-team/2023/Dhiya.png", "in": "#", "ig": "#" },
+      { "name": "Fauziah Emiliya Insani", "role": "Asisten Praktikum", "img": "/img-team/2023/Fauziah.png", "in": "#", "ig": "#" },
+      { "name": "Fika Rizky Amalia", "role": "Asisten Praktikum", "img": "/img-team/2023/Fika.png", "in": "#", "ig": "#" },
+      { "name": "Muhammad Firman", "role": "Asisten Praktikum", "img": "/img-team/2023/Firman.png", "in": "#", "ig": "#" },
+      { "name": "Flafiana Angraeni Wibowo", "role": "Asisten Praktikum", "img": "/img-team/2023/Flafiana.png", "in": "#", "ig": "#" },
+      { "name": "Inggrid Shellyana Grace Rumapea", "role": "Asisten Praktikum", "img": "/img-team/2023/Ingrid.png", "in": "#", "ig": "#" },
+      { "name": "Nabilah Nurshaumi", "role": "Asisten Praktikum", "img": "/img-team/2023/nabilla.png", "in": "#", "ig": "#" },
+      { "name": "Nadila Nurfawziah", "role": "Asisten Praktikum", "img": "/img-team/2023/nadilla.png", "in": "#", "ig": "#" },
+      { "name": "Nurun Nasihatin", "role": "Asisten Praktikum", "img": "/img-team/2023/Nurun.png", "in": "#", "ig": "#" },
+      { "name": "Muhamad Raihan Agastyan", "role": "Asisten Praktikum", "img": "/img-team/2023/Raihan.png", "in": "#", "ig": "#" },
+      { "name": "Silva Savarin", "role": "Asisten Praktikum", "img": "/img-team/2023/Silva.png", "in": "#", "ig": "#" },
+      { "name": "Tika Nur Istiqomah", "role": "Asisten Praktikum", "img": "/img-team/2023/Tika.png", "in": "#", "ig": "#" },
+      { "name": "Zahra Amalia", "role": "Asisten Praktikum", "img": "/img-team/2023/Zahra.png", "in": "#", "ig": "#" }
+    ],
+    "itSupport": [
+      { "name": "Muhamad Fathan Fahrizy", "role": "Staff IT Support", "img": "/img-team/2023/Fathan.png", "in": "#", "ig": "#" },
+      { "name": "Muhammad Daffa Yunus", "role": "Staff IT Support", "img": "/img-team/2023/Daffa.png", "in": "#", "ig": "#" }
+    ]
+  }
+}
